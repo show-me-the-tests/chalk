@@ -1,4 +1,5 @@
 /* globals suite, bench */
+
 import chalk from './index.js';
 
 suite('chalk', () => {
